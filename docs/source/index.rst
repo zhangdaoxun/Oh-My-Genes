@@ -3,24 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Oh My Genes's documentation!
-=======================================
+Software Requirements Specification for OMG Version 0.1
+=======================================================
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+    :maxdepth: 2
+    :numbered:
 
     introduction
-    overall
-    requirements
-    interface
-    system
-    other
+    functional-requirements
+    non-functional-requirements
+    constraints
+    change-cases
+    appendices
+    references
+
+
+Group Information
+=================
+
+Group Name:
+-----------
+BuiGia
+
+Group Member:
+-------------
+    *   宋一豪(Bob 201632120126): 827030988@qq.com
+    *   徐宇泽(Universe 201632120128): universe_black@qq.com
+
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
