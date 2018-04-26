@@ -15,6 +15,7 @@ Software Requirements Specification for OMG Version 0.1
     non-functional-requirements
     constraints
     change-cases
+    milestones
     appendices
     references
 
@@ -28,8 +29,8 @@ BuiGia
 
 Group Member:
 -------------
-    *   宋一豪(Bob 201632120126): 827030988@qq.com
-    *   徐宇泽(Universe 201632120128): universe_black@qq.com
+    1. 宋一豪(Bob 201632120126): 827030988@qq.com
+    #. 徐宇泽(Universe 201632120128): universe_black@qq.com
 
 
 
