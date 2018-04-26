@@ -8,8 +8,14 @@ Welcome to Oh My Genes's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
 
+    introduction
+    overall
+    requirements
+    interface
+    system
+    other
 
 
 Indices and tables
