@@ -1,7 +1,7 @@
 Constraints
 ===========
     For scientific and analyze uses, this application is orientated to various 
-    users(biologists) all over the world. Before developing the project, ww have 
+    users(biologists) all over the world. Before developing the project, we have 
     to take some main constraints into account so that we can come up any useful ideas
     to deal with them in the future. 
 
