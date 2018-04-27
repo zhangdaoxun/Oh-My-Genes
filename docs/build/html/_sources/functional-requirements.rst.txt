@@ -52,5 +52,5 @@ Plot Analyzing
     with appropriated column names if provided in the uploaded file. 
     The up-regulated genes are shown in red dots, and down-regulated genes are shown in blue.
 
-User Interface
---------------
+    .. image:: /image/GED.png
+

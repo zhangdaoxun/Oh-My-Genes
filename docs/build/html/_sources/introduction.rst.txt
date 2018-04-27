@@ -2,7 +2,7 @@ Introduction
 ============
     This document is intended to specify a set of requirements 
     for the project OMG, which means "Oh My Genes", a web 
-    application for identifying gene exprission differential.
+    application for identifying genes' expression differential.
 
 
 Purpose
@@ -43,7 +43,7 @@ Terminologies
     *   *Control sample* - A cell sample prepared in its normal condition.
     *   *Treatment sample* - A cell sample treated by special chemicals, or in which some genesare altered.
     *   *Differentially expressed genes* - The genes which have significantly differentexpression levels between two samples.
-    *   *Up-regulation* - A gene is said to be up-regulated if it has higher expression intreatment than in control.
+    *   *Up-regulation* - A gene is said to be up-regulated if it has higher expression in treatment than in control.
 
 Abbreviations
 ~~~~~~~~~~~~~
