@@ -48,7 +48,7 @@ Table Analyzing
 Plot Analyzing
 ~~~~~~~~~~~~~~
     The scatter plot displays differentially expressed genes. 
-    The X-axis is Control, andY-axis is KnockOut. Replace 'Control' and 'KnockOut' 
+    The X-axis is Control, and Y-axis is KnockOut. Replace 'Control' and 'KnockOut' 
     with appropriated column names if provided in the uploaded file. 
     The up-regulated genes are shown in red dots, and down-regulated genes are shown in blue.
 
